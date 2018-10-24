@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: HaleyXLZhang Blog
+SEOTitle: HaleyXLZhang的博客 | HaleyXLZhang Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 1017218801@@qq.com
 description: ""
-keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "HaleyXLZhang"
+url: "https://HaleyXLZhang.github.io"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     haley
+zhihu_username:     haley
+github_username:    haley
+#twitter_username:  haley
+facebook_username:  haley
 
 
 
